@@ -1,1 +1,6 @@
-# Telegram-bot
+# telegram-bot/
+│
+├── api/
+│   └── bot.py
+│
+└── requirements.txt
